@@ -1,4 +1,5 @@
 <p>2020/6/15
+<p>• 网址不定期更新，连不上时，请不同时间再试试。
 <p>• 建议用谷歌或火狐官方浏览器访问。
 <p>◎  • 视 频： 
 <a href="http://gch.shirokuriwaki.com/" target="_blank">网址一</a> 　 
