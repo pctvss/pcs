@@ -1,11 +1,11 @@
-<p>2020/6/19b
+<p>2020/6/20
 <p>• 网址不定期更新，连不上时，请不同时间再试试。
 <p>• 建议用谷歌或火狐官方浏览器访问。
 <p>◎  • 视 频： 
 <a href="http://dco.shirokuriwaki.com/" target="_blank">网址一</a> 　 
 <a href="http://dso.shirokuriwaki.com/" target="_blank">网址二</a> 　 
 <a href="http://doo.shirokuriwaki.com/b.html" target="_blank">网址三</a>
-<p>◆ 分 享 网 址 ：n.acci.ml  （ 请 收 藏） </p>
+<p>◆ 分 享 网 址 ：b.nobe.ml （ 请 收 藏） </p>
 
 <p>◎•  小 站：  
 <a href="http://dco.shirokuriwaki.com/f.html" target="_blank">网址一</a> 　 
